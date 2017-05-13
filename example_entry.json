@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2017-05-05",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1541064
+    }
+  },
+  "results": [
+    {
+      "manufacturer_contact_zip_ext": "",
+      "manufacturer_g1_address_2": "",
+      "event_location": "",
+      "report_to_fda": "Y",
+      "manufacturer_contact_t_name": "",
+      "manufacturer_contact_state": "",
+      "manufacturer_link_flag": "Y",
+      "manufacturer_g1_city": "ZUG",
+      "manufacturer_contact_address_2": "",
+      "event_type": "Malfunction",
+      "manufacturer_contact_pcity": "",
+      "manufacturer_contact_address_1": "GUBELSTRASSE 34",
+      "report_number": "3008382007-2012-09245",
+      "type_of_report": [
+        "Initial submission"
+      ],
+      "product_problem_flag": "Y",
+      "date_received": "20130101",
+      "manufacturer_address_2": "",
+      "reprocessed_and_reused_flag": "N",
+      "manufacturer_address_1": "",
+      "manufacturer_contact_zip_code": "6300",
+      "manufacturer_contact_plocal": "",
+      "reporter_occupation_code": "PATIENT",
+      "manufacturer_contact_l_name": "WANDOLSKI",
+      "source_type": [
+        "Consumer"
+      ],
+      "distributor_zip_code_ext": "",
+      "manufacturer_g1_postal_code": "6300",
+      "manufacturer_g1_state": "",
+      "date_facility_aware": "20121210",
+      "manufacturer_contact_area_code": "",
+      "manufacturer_contact_f_name": "YANNICK",
+      "previous_use_code": "I",
+      "device": [
+        {
+          "manufacturer_d_address_1": "GUBELSTRASSE 34",
+          "manufacturer_d_address_2": "",
+          "device_event_key": "",
+          "device_sequence_number": " 1.0",
+          "manufacturer_d_state": "",
+          "manufacturer_d_zip_code": "6300",
+          "manufacturer_d_city": "ZUG",
+          "lot_number": "3180296",
+          "manufacturer_d_postal_code": "6300",
+          "manufacturer_d_zip_code_ext": "",
+          "model_number": "",
+          "date_received": "20130101",
+          "device_report_product_code": "NBW",
+          "device_operator": "LAY USER/PATIENT",
+          "device_availability": "No",
+          "other_id_number": "",
+          "generic_name": "GLUCOSE MONITORING SYS/KIT",
+          "manufacturer_d_name": "LIFESCAN EUROPE, A DIVISION OF CILAG GMBH INTL",
+          "manufacturer_d_country": "SZ",
+          "brand_name": "OT ULTRALINK METER",
+          "openfda": {
+            "device_name": "System, Test, Blood Glucose, Over The Counter",
+            "medical_specialty_description": "Clinical Chemistry",
+            "device_class": "2",
+            "regulation_number": "862.1345"
+          },
+          "device_age_text": "",
+          "device_evaluated_by_manufacturer": "R",
+          "catalog_number": "",
+          "implant_flag": "",
+          "date_removed_flag": ""
+        }
+      ],
+      "manufacturer_zip_code": "",
+      "manufacturer_contact_country": "SZ",
+      "health_professional": "N",
+      "manufacturer_g1_zip_code_ext": "",
+      "manufacturer_city": "",
+      "manufacturer_contact_extension": "",
+      "manufacturer_contact_phone_number": "",
+      "patient": [
+        {
+          "sequence_number_treatment": [
+            ""
+          ],
+          "patient_sequence_number": "1",
+          "date_received": "20130101",
+          "sequence_number_outcome": [
+            ""
+          ]
+        },
+        {
+          "sequence_number_treatment": [
+            ""
+          ],
+          "patient_sequence_number": "1",
+          "date_received": "20130101",
+          "sequence_number_outcome": [
+            ""
+          ]
+        }
+      ],
+      "distributor_city": "",
+      "distributor_state": "",
+      "date_report": "20121210",
+      "initial_report_to_fda": "Unknown",
+      "manufacturer_g1_country": "SZ",
+      "event_key": "",
+      "manufacturer_contact_city": "ZUG",
+      "mdr_report_key": "2891923",
+      "removal_correction_number": "",
+      "number_devices_in_event": "",
+      "date_manufacturer_received": "20121210",
+      "manufacturer_name": "",
+      "report_source_code": "Manufacturer report",
+      "remedial_action": [
+        ""
+      ],
+      "manufacturer_g1_zip_code": "6300",
+      "manufacturer_zip_code_ext": "",
+      "report_to_manufacturer": "",
+      "manufacturer_g1_name": "LIFESCAN EUROPE, A DIVISION OF CILAG GMBH INTL",
+      "distributor_address_1": "",
+      "adverse_event_flag": "N",
+      "manufacturer_state": "",
+      "distributor_address_2": "",
+      "manufacturer_postal_code": "",
+      "manufacturer_country": "",
+      "single_use_flag": "N",
+      "mdr_text": [
+        {
+          "mdr_text_key": "16750885",
+          "text_type_code": "Description of Event or Problem",
+          "patient_sequence_number": "1",
+          "text": "ON (B)(6) 2012, THE LAY USER/ PATIENT CONTACTED LIFESCAN (LFS) IN USA ALLEGING AN ER 2 ISSUE. THE PATIENT DID NOT ALLEGE ANY HARM OR INJURY DUE TO THE ALLEGED ISSUE. THE ALLEGED ISSUE WAS NOT RESOLVED WITH TROUBLESHOOTING. BASED ON THE INFORMATION PROVIDED, THERE IS NO INDICATION THAT THE REPORTED ISSUE CAUSED OR CONTRIBUTED TO A SERIOUS INJURY. THE PATIENT DID NOT DEVELOP SYMPTOMS SUGGESTIVE OF SEVERE HYPOGLYCEMIA OR HYPERGLYCEMIA, NOR RECEIVE MEDICAL INTERVENTION FOR EITHER OF THESE CONDITIONS. HOWEVER, THIS COMPLAINT IS BEING REPORTED BECAUSE THE ALLEGED PRODUCT ISSUE REMAINED UNRESOLVED."
+        }
+      ],
+      "number_patients_in_event": "",
+      "distributor_name": "",
+      "manufacturer_g1_address_1": "GUBELSTRASSE 34",
+      "distributor_zip_code": "",
+      "manufacturer_contact_exchange": "",
+      "manufacturer_contact_postal_code": "6300",
+      "manufacturer_contact_pcountry": ""
+    }
+  ]
+}
